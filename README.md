@@ -1,9 +1,6 @@
 # 🎚️ Edge Volume
 
 **Edge Volume** is a sleek, lightweight macOS utility that brings an iOS-style volume slider to your desktop. Hover near the right edge of your screen to reveal a translucent, animated volume control that blends beautifully with macOS aesthetics.
-
-![screenshot]((https://i.postimg.cc/ZRTV0znH/Product-Preview.png))
-
 ---
 
 ## ✨ Features
@@ -19,6 +16,10 @@
 - 💥 **Haptic Feedback** on max/min volume (if supported).
 - 📃 **Welcome Screen** on first launch.
 
+---
+
+## 🖼️ Preview:
+![screenshot](https://i.postimg.cc/ZRTV0znH/Product-Preview.png)
 ---
 
 ## 📥 Installation
