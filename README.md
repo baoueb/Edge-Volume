@@ -1,4 +1,6 @@
-# 🎚️ Edge Volume
+<img align="left" width="80" height="80" src="https://i.postimg.cc/xCnnC8LZ/icon-modified.png" alt="Edge Volume Icon">
+
+# Edge Volume
 
 **Edge Volume** is a sleek, lightweight macOS utility that brings an iOS-style volume slider to your desktop. Hover near the right edge of your screen to reveal a translucent, animated volume control that blends beautifully with macOS aesthetics.
 ---
