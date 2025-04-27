@@ -7,7 +7,7 @@
 ---
 
 > ⚠️ **Bluetooth limitation:**  
-> Most Bluetooth speakers and headphones (e.g. AirPods, Beats, etc.) implement their own hardware volume control. While Edge Volume will still appear, these devices often pin your Mac’s system volume at 100%, so turning the slider in-app won’t actually change their output level. For full control, use your device’s onboard volume buttons or crown.
+> Most Bluetooth speakers and headphones (e.g. AirPods, Beats, etc.) implement their own hardware volume control. While Edge Volume will still appear, these devices often pin your Mac’s system volume at 100%, so turning the slider in-app won’t actually change their output level. For full control, use your device’s onboard volume buttons or crown. A future MacOS update could fix this.
 
 ---
 
